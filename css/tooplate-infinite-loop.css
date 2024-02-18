@@ -161,7 +161,7 @@ blockquote {
 
 @media (min-height: 830px) {
   #infinite {
-    background-position: center -210px;
+    background-position: center ;
   }
 }
 
@@ -173,13 +173,13 @@ blockquote {
 
 @media (min-height: 500px) and (max-height: 679px) {
   #infinite {
-    background-position: center -400px;
+    background-position: center ;
   }
 }
 
 @media (max-height: 499px) {
   #infinite {
-    background-position: center -450px;
+    background-position: center ;
   }
 }
 
